@@ -6,33 +6,17 @@ Les commandes Docker-compose pour conteneuriser vos applications et les rendre c
 
 # Les commandes de base   
 
-## Connaitre la version de Docker courrante 
+## Connaitre la version de Docker-compose courrante 
 
 ```shell
-docker -v
-```  
-
-## Connaitre la version de Docker courrante  avec plus de détails.
-
-```shell
-docker version
-```  
-
-## Lister toutes les images Docker sur la machine.
-
-```shell
-docker images 
-``` 
-
-```shell 
-docker image ls
-``` 
+docker-compose version
+```   
 
 # Authors
 
 * **Lorince TAWAMBA** _alias_ [@LorinceTawamba](https://github.com/LorinceTawamba)
 
-Read the list of [contributors](https://github.com/LorinceTawamba/docker-commandes/contributors) to see who helped with the project ! 
+Read the list of [contributors](https://github.com/LorinceTawamba/docker-compose-commandes/contributors) to see who helped with the project ! 
 
 # License
 
