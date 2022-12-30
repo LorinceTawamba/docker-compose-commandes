@@ -1,8 +1,8 @@
 # DOCKER-COMPOSE - COMMANDES
-Les commandes Docker pour conteneuriser vos applications et les rendre cloud compatible. 
+Les commandes Docker-compose pour conteneuriser vos applications et les rendre cloud compatible. 
 
-### Docker résumé des commandes références 
-* [https://docs.docker.com/engine/reference/commandline/docker/](https://docs.docker.com/engine/reference/commandline/docker/)
+### Docker-compose résumé des commandes références 
+* [https://docs.docker.com/compose/](https://docs.docker.com/compose/)
 
 # Les commandes de base   
 
